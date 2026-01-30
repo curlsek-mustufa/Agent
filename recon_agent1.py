@@ -81,7 +81,7 @@ recon_team = Team(
     ],
 )
 recon_team.print_response(
-    "Perform full reconnaissance on http://testhtml5.vulnweb.com "
+    "Perform full reconnaissance on http://testphp.vulnweb.com "
     "assuming explicit authorization. Generate a complete recon report.",
     stream=True
 )
